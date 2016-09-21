@@ -526,7 +526,7 @@
     },
     {
       "Key": "foundClosest",
-      "Value": "Encontramos un punto cerrado {0} - {1}, distancia de ese punto: {2} metros, nos desplazaremos hacia aya!"
+      "Value": "Encontramos un punto cerrado {0} - {1}, distancia de ese punto: {2} metros, nos desplazaremos hacia allá!"
     },
     {
       "Key": "customRouteEnabled",
